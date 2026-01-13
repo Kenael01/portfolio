@@ -10,18 +10,20 @@ section h1 {
 
 
 header h1 {
-    background-color: #15ecf4;
+    background-color: #2f5d50;
+    color: #ffffff;
     width: 100%;
     text-align: center;
     margin: 0;
     padding: 10px;
-    display
 }
 
-
-
 body {
-    min-height: 100vh;
-    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
-    color: #ffffff;
+    background-color: #e9dbc2;
+}
+
+img {
+    width: 120px;
+    height: 100px;
+
 }
